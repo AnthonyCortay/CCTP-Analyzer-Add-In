@@ -1,2 +1,2 @@
-# CCT-Analyzer-Add-In
+# CCTP-Analyzer-Add-In
 Version Add-In Outlook de CCTP Analyzer
